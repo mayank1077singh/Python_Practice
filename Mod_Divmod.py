@@ -1,0 +1,6 @@
+A=int(input())
+B=int(input())
+X=divmod(A,B)
+print(X[0])
+print(X[1])
+print(X)
